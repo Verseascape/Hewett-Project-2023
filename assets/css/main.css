@@ -628,7 +628,16 @@ h6 {
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
+  height: auto;
   border-radius: 50%;
+  border: 5px solid #474a4d;
+  margin: 0 auto;
+}
+
+.testimonials .testimonial-item .testimonial-images {
+  width: 190px;
+  height: 340px;
+  /* border-radius: 50%; */
   border: 5px solid #474a4d;
   margin: 0 auto;
 }
